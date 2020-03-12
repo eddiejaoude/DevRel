@@ -4,6 +4,8 @@ DevRel community discussion with tips, including how to running virtual events &
 
 ## Agenda for first discussion 13th of March 2020
 
+YouTube link https://www.youtube.com/watch?v=7u1cm3qh7eU&feature=youtu.be
+
 ### Participants 
 
 - [Simon Maple](https://twitter.com/sjmaple)
