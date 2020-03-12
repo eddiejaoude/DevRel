@@ -10,6 +10,7 @@ YouTube link https://www.youtube.com/watch?v=7u1cm3qh7eU&feature=youtu.be
 
 - [Simon Maple](https://twitter.com/sjmaple)
 - [Patrick Debois](https://twitter.com/patrickdebois)
+- [Amandine Flaches](https://twitter.com/AmandineFlachs)
 - [Eddie Jaoude](https://twitter.com/eddiejaoude)
 
 ### Agenda
