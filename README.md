@@ -1,2 +1,19 @@
 # DevRel
+
 DevRel community discussion with tips, including how to running virtual events &amp; meetups
+
+## Agenda for first discussion 13th of March 2020
+
+### Participants 
+
+- [Simon Maple](https://twitter.com/sjmaple)
+- [Patrick Debois](https://twitter.com/patrickdebois)
+- [Eddie Jaoude](https://twitter.com/eddiejaoude)
+
+### Agenda
+
+- Growing the virtual audience
+- Technical challenges
+  - host
+  - participants
+  - audience (chat etc)
