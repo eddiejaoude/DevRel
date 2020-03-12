@@ -16,8 +16,10 @@ Meetup link https://www.meetup.com/DevRel-London
 
 ### Agenda
 
-- Growing the virtual audience
+- Growing / communicating with the virtual audience
 - Technical challenges
   - host
   - participants
   - audience (chat etc)
+- Pre event
+- Post event
