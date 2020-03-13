@@ -22,11 +22,18 @@ Meetup link https://www.meetup.com/DevRel-London
   - Move events to online
 - Challenges
   - Growing / communicating with the virtual audience
+  - Keeping community engagement while online
+  - Code of Conduct (and enforcing)
+  - Follow up after the event
   - Technical challenges
+    - What tools to use (GDPR compliant)
     - Host
     - Participants
     - Audience (chat etc)
 - Recommendations
   - Pre event
+    - ...
   - During the event
+    - ...
   - Post event
+    - ...
