@@ -16,10 +16,17 @@ Meetup link https://www.meetup.com/DevRel-London
 
 ### Agenda
 
-- Growing / communicating with the virtual audience
-- Technical challenges
-  - host
-  - participants
-  - audience (chat etc)
-- Pre event
-- Post event
+- Problem
+  - Events being cancelled / postponed
+- Solution
+  - Move events to online
+- Challenges
+  - Growing / communicating with the virtual audience
+  - Technical challenges
+    - Host
+    - Participants
+    - Audience (chat etc)
+- Recommendations
+  - Pre event
+  - During the event
+  - Post event
