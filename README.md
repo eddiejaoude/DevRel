@@ -23,10 +23,11 @@ Meetup link https://www.meetup.com/DevRel-London
 - Challenges
   - Growing / communicating with the virtual audience
   - Keeping community engagement while online
-  - Code of Conduct (and enforcing) & safety online (join anonymously but can not chat)
+  - Code of Conduct (and enforcing) & safety online (join anonymously but can not chat) - moderator to monitor the chat and response / ban accordingly
   - Follow up after the event
   - Technical challenges
     - What tools to use (GDPR compliant)
+    - Closed Captions (CC)
     - Host
     - Participants
     - Audience (chat etc)
